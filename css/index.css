@@ -1,0 +1,42 @@
+.logo{
+  font-weight: 300;
+}
+
+.p_con{
+  width: 90%;
+}
+
+.my-img{
+  object-fit: cover;
+  width:50%
+}
+
+#about{
+  border:1px solid lightblue;
+  border-radius: 10px;
+  padding:4%;
+}
+
+.services{
+  overflow: hidden;
+}
+
+.send{
+  margin-top: 25px;
+}
+
+.custom-text{
+  border-radius: 15px;
+}
+
+.socials{
+  display: flex;
+  height:50px;
+  width:50px;
+  padding:15px;
+  border-radius: 100%;
+}
+
+.socials:hover{
+  background:black;
+}
